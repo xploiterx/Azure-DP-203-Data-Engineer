@@ -12,8 +12,6 @@ Para ello, te guiaremos a través de las competencias de Azure, compartiendo exp
 ### Formación práctica y laboratorios:
 Con la formación teórica, las guías de estudio descargables, los ejercicios prácticos, los laboratorios aplicados - este es el único curso que necesitarás para prepararte.
 
-#### [Módulo 01: Explore las opciones de cómputo y almacenamiento para las cargas de trabajo de ingeniería de datos](Instructions/Labs/LAB_01_compute_and_storage_options.md)
-
 ## Qué aprenderás:
 Introducción al entorno de Azure. Aprenderas los funcamentos de Azure, ha desplegar servicios y a gestionarlos:
 
