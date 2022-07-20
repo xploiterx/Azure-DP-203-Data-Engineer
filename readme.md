@@ -1,16 +1,16 @@
 # DP-203T00: Azure Data Engineering Zero to Hero
 
-Bienvenido al curso DP-203: Azure Data Engineering Zero to Hero. Para admitir este curso, necesitaremos realizar actualizaciones en el contenido del curso para mantenerlo actualizado con los servicios de Azure que se usan en el curso. Estamos publicando las instrucciones de laboratorio y los archivos de laboratorio en GitHub para permitir contribuciones abiertas entre los autores del curso y los MCT para mantener el contenido actualizado con los cambios en la plataforma Azure..
+Si estás buscando un curso completo, práctico y aplicado para preparar la certificación de DP-203 Azure Data Engineer Associate, has venido al lugar correcto.
+Este curso está diseñado para aprender todo lo relacionado con las tecnologías de ingeniería de datos con Azure como: Azure Databricks, Data Factory, Data Lake, Azure Synapse Analytics, Cosmos DB, Azure Storage y las bases de datos de Azure.
 
 ## Descripción general del laboratorio
 
-El siguiente es un resumen de los objetivos de laboratorio para cada módulo:
+Microsoft Azure Data Engineering es una de las profesiones de más rápido crecimiento y demanda entre los profesionales de la ciencia de datos. Según un informe de Gartner hubo un crecimiento interanual del 88 % en las ofertas de trabajo para ingenieros de datos, siendo la tasa de crecimiento más alta entre todos los trabajos de tecnología. Por ello, el certificarte en el DP-203 Azure Data Engineer Associate te dará numerosas oportunidades laborales y profesionales.
 
-### Mes 1
+Para ello, te guiaremos a través de las competencias de Azure, compartiendo explicaciones claras y útiles consejos profesionales. Este curso está diseñado para preparar todas las habilidades específicas de la certificación DP-203 Azure Data Engineer Associate. Con la formación teórica, las guías de estudio descargables y los ejercicios prácticos.
 
-#### [Módulo 00: Configuración del entorno de laboratorio](Instructions/Labs/LAB_00_lab_setup_instructions.md)
-
-Complete the lab environment setup for this course.
+### Formación práctica y laboratorios:
+Con la formación teórica, las guías de estudio descargables, los ejercicios prácticos, los laboratorios aplicados y un completo test, este es el único curso que necesitarás para prepararte.
 
 #### [Módulo 01: Explore las opciones de cómputo y almacenamiento para las cargas de trabajo de ingeniería de datos](Instructions/Labs/LAB_01_compute_and_storage_options.md)
 
