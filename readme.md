@@ -9,10 +9,10 @@ Este curso no solo está diseñado para aprender TODO lo relacionado con las tec
 Microsoft Azure Data Engineering es una de las profesiones de más rápido crecimiento y demanda entre los profesionales de la ciencia de datos. Según un informe de Gartner hubo un crecimiento interanual del 88 % en las ofertas de trabajo para ingenieros de datos, siendo la tasa de crecimiento más alta entre todos los trabajos de tecnología. Por ello, el certificarte en el DP-203 Azure Data Engineer Associate te dará numerosas oportunidades laborales y profesionales.
 
 ## Más que un curso 
-La mayoría de los cursos que encontrás en las diferentes plataformas e-Learning - son un resumen de lo que debes aprender para la certificación DP-100 - sin embargo, requiere que ya cuentes con bases solidas y cierta experiencia en materia de datos - Por otro lado, las practicas y laboratorios debes asumirlos junto y con los costos desconocidos de usar tu propia subscripción Azure.
+La mayoría de los cursos que encontrás en las diferentes plataformas e-Learning - son un resumen de lo que debes aprender para la certificación DP-100 - sin embargo, requiere que ya cuentes con bases solidas y cierta experiencia en materia de datos - Por otro lado, las practicas y laboratorios debes asumirlos junto con los costos desconocidos de usar tu propia subscripción Azure.
 
 ## Azure Sandbox
-Por esto hermos creado Azure Sandbox - entornos reales Azure con todos los recursos predefinidos como: Azure Databricks, Data Factory, Data Lake, Azure Synapse Analytics, Cosmos DB, Azure Storage y Azure Data base. Donde pondrás en practica todo lo que aprederás.
+Por esto hemos creado Azure Sandbox - entornos reales Azure con todos los recursos predefinidos como: Azure Databricks, Data Factory, Data Lake, Azure Synapse Analytics, Cosmos DB, Azure Storage y Azure Data base. Donde pondrás en practica todo lo que aprederás.
 
 Tambien en este curso - a diferencia de los e-learning de otras plataformas - cuenta con más de 40 horas de capacitación repartidas en alrededor de 3 meses - seamos sinceros, si quieres convertirte en un héroe del Data Engineer en Azure - el tiempo minimo para lograr este hito es de almenos el tiempo que sugerimos para este curso - Al finalizar este curso estarás en capacidad de asumir cualquier reto empresarial que te proponagan y por cosiguiente aplicar a ofertas laborales de alto calibre.
 
