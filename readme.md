@@ -10,11 +10,30 @@ Microsoft Azure Data Engineering es una de las profesiones de más rápido creci
 Para ello, te guiaremos a través de las competencias de Azure, compartiendo explicaciones claras y útiles consejos profesionales. Este curso está diseñado para preparar todas las habilidades específicas de la certificación DP-203 Azure Data Engineer Associate. Con la formación teórica, las guías de estudio descargables y los ejercicios prácticos.
 
 ### Formación práctica y laboratorios:
-Con la formación teórica, las guías de estudio descargables, los ejercicios prácticos, los laboratorios aplicados y un completo test, este es el único curso que necesitarás para prepararte.
+Con la formación teórica, las guías de estudio descargables, los ejercicios prácticos, los laboratorios aplicados - este es el único curso que necesitarás para prepararte.
 
 #### [Módulo 01: Explore las opciones de cómputo y almacenamiento para las cargas de trabajo de ingeniería de datos](Instructions/Labs/LAB_01_compute_and_storage_options.md)
 
-Este laboratorio enseña formas de estructurar el lago de datos y optimizar los archivos para cargas de trabajo de exploración, transmisión y lotes. El estudiante aprenderá cómo organizar el lago de datos en niveles de refinamiento de datos a medida que transforma archivos a través del procesamiento por lotes y secuencias. Los estudiantes también experimentarán el trabajo con Apache Spark en Azure Synapse Analytics. Aprenderán a crear índices en sus conjuntos de datos, como archivos CSV, JSON y Parquet, y los utilizarán para posibles consultas y aceleración de cargas de trabajo mediante bibliotecas de Spark, incluidas Hyperspace y MSSParkUtils.
+## Qué aprenderás:
+Introducción al entorno de Azure. Aprenderas los funcamentos de Azure, ha desplegar servicios y a gestionarlos:
+
+- Azure Data Factory. Aprenderás todo lo relacionado con Data Factory, desde Data Flows, triggers, parametrización, monitorización, etc.
+
+- Azure Databricks. Aprenderas todo lo relacionado con Databricks, desde la ejecución y generación de notebooks, hasta la integración en DWH modernos.
+
+- Cómo integrar Azure Data Factory y Databricks. Cubriremos todo el proceso de integración de Azure Data Factory con Databricks, desde la autenticación, transformación de datos con Databricks, visualización, etc.
+
+- Azure Data Lakes. aprenderás que es un Data Lake, y a como desarrollarlo y utilizarlo.
+
+- Azure Synapse Analytics. aprenderás todo lo relacionado con Azure Synapse Analytics.
+
+- Almacenamiento con Azure Storage, Cosmos DB y Azure Databases. Aprenderos acerca del almacenamiento de datos en Azure con Cosmos DB, Azure Storage y las bases de datos de Azure.
+
+## ¿Para quién es este curso?
+- Cualquiera que aprobar la certificación DP-203 a la primera
+- Cualquiera que quiera convertirse en ingeniero de datos de Azure
+
+
 
 #### [Módulo 02: Ejecute consultas interactivas con grupos de SQL sin servidor de Azure Synapse Analytics](Instructions/Labs/LAB_02_queries_using_serverless_sql_pools.md)
 
