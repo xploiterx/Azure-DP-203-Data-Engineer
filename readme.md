@@ -37,9 +37,8 @@ Introducción al entorno de Azure. Aprenderas los fundamentos de Azure, ha despl
 - Cualquiera que aprobar la certificación DP-203 a la primera
 - Cualquiera que quiera convertirse en ingeniero de datos de Azure
 
-
-
 #### [Learning Path Completo](https://xploiter-my.sharepoint.com/:x:/g/personal/carlsvelz_xploiter_co/EdpasKUY4d9HqN9eLF5DTaEBGI3Z249ZuG7UNea7XxSQLQ)
+Veremos alrededor de **58 modulos repartidos en alrededor de 486 guías junto con 67 laboratorios** - Po lo que este Learning Path cubre TODO lo que necesitas tanto para certificarte como asimir cualquier reto de datos. **LINK https://bit.ly/3PKKVPZ**
 
-Veremos alrededor de **58 modulos repartidos en alrededor de 486 guías junto con 67 laboratorios** - Po lo que este Learning Path cubre TODO lo que necesitas tanto para certificarte como asimir cualquier reto de datos. 
+Unete a nuestro grupo telegram para obtener más información y participar de muchos otros recursos que comrtiremos en nuestro grupo. **https://bit.ly/3nMYKlm**
 
